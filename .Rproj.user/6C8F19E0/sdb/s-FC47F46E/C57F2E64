@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1495549706270.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C57F2E64",
+    "lastKnownWriteTime" : -1971528906668709732,
+    "last_content_update" : 1495549706270,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "496D7F87",
+        "caption" : "aborigine_plain",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=aborigine_plain&cache_key=496D7F87",
+        "displayedObservations" : 370,
+        "environment" : "",
+        "object" : "aborigine_plain",
+        "preview" : 0,
+        "totalObservations" : 370,
+        "variables" : 17
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

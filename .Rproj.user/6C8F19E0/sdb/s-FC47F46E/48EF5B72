@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1495549708952.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "48EF5B72",
+    "lastKnownWriteTime" : 7597143093794188598,
+    "last_content_update" : 1495549708952,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "78B16CB",
+        "caption" : "aborigine_mountain",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=aborigine_mountain&cache_key=78B16CB",
+        "displayedObservations" : 370,
+        "environment" : "",
+        "object" : "aborigine_mountain",
+        "preview" : 0,
+        "totalObservations" : 370,
+        "variables" : 17
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

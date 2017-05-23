@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1495551637362.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F03C6AA4",
+    "lastKnownWriteTime" : 13229804949012596,
+    "last_content_update" : 1495551637362,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "60AB1BCB",
+        "caption" : "edu_university_graduated_m",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=edu_university_graduated_m&cache_key=60AB1BCB",
+        "displayedObservations" : "371",
+        "environment" : "",
+        "object" : "edu_university_graduated_m",
+        "preview" : "0",
+        "totalObservations" : "371",
+        "variables" : "2"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
